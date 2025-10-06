@@ -15,7 +15,7 @@
 6. **Конец**
    
 ### Блок-схема
-<img width="122" height="421" alt="Диаграмма без названия drawio" src="https://raw.githubusercontent.com/wyrtwwr/email-assets/refs/heads/main/Lab6_cxema.j" />
+<img width="122" height="421" alt="Диаграмма без названия drawio" src="https://raw.githubusercontent.com/wyrtwwr/email-assets/refs/heads/main/Lab6_cxema.jpg" />
 
 ## 2. Реализация программы
 #define _USE_MATH_DEFINES
